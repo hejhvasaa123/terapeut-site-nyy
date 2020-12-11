@@ -1,0 +1,36 @@
+.behandling-header {
+    background-color: #D8CFC4;
+}
+
+.behandling-header-text {
+    margin: 0;
+    display: block;
+    height: 100%;
+    color: #52392F;
+    font-size: 28px;
+    font-weight: bold;
+    padding-top: 55px;
+}
+
+.behandling-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D8CFC4;
+    color: #52392F;
+}
+
+.behandling-container-item {
+    margin: 40px 0px 105px 0px;
+}
+
+.behandling-pic {
+    max-height: 350px;
+    margin-right: 50px;
+    margin-left: 25px;
+}
+
+.behandling-text {
+    margin-right: 25px;
+    margin-left: 50px;
+}
